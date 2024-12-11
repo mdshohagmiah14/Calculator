@@ -1,0 +1,24 @@
+body{
+    /* padding: flex; */
+    background:white;
+
+}
+td,th{
+    border: 1px solid wheat;
+}
+
+table{
+    border-collapse: collapse;
+    width: 400;
+    height: 600;
+    text-align: center;
+    border: 5px solid;
+    
+}
+td:hover{
+    background-color: aqua;
+    color: rebeccapurple;
+}
+.output{
+    text-align: right;
+}
